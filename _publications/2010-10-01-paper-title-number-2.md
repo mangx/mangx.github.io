@@ -3,7 +3,7 @@ title: "An Agricultural Policy Question Answering System Based on ChatGLM2-6B"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-funding: 'National Key R&D Program "Application Demonstration for Convergent Science Scenarios" (2021YFF0704204)'
+excerpt: 'The paper was funded by the following grants: National Key R&D Program "Application Demonstration for Convergent Science Scenarios" (2021YFF0704204)'
 date: 2024-08-22
 venue: 'Frontiers of Data & Computing'
 paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=gHWJqxSIlt1lUQsCSZX53Pme5bRLWxi-lV5aI0Ukr_omwWRmRiJ0t0d623GaxSkGJic7d_xlriaL5tPjVDN3arCXia5FfnrGZRsknzOtMi9PDK5kndIz4dXU6T8MhkW0DPLQM8TrYu_N6WdZkkhRUXGpcGV6Dv278KdYwDlHNw_2Ebl6wFx8ig==&uniplatform=NZKPT&language=CHS'
