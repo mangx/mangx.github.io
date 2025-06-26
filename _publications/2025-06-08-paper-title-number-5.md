@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Information Extraction from Chinese Wheat Varieties Journal Based on Large Language Model"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2025-06-08-paper-title-number-5
+excerpt: 'The paper was funded by the following grant: Science and Technology Innovation Engineering Special Project of Chinese Academy of Agricultural Sciences (CAAS - ASTIP - 2024 - AII)'
+date: 2025-02-20
+venue: 'Frontiers of Data & Computing'
+paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=gHWJqxSIlt3F4RDcAzroXyNZfA_P2ARUANJiLOhtBKV6GV9kbwmB2h3L3tObNbf1vkbm2mPfznw6n4aEhXzPgAfXd0iNyTssBkYSyFMqNsQmuqgrYgAdCslOPkIMrP02L7rx9uzU43ufiU3szaRekcw5ivU_EeuDFelMFepAQLT6CX0NC66gUA==&uniplatform=NZKPT&language=CHS'
+citation: '<b>Wei Yijin</b>, Chen Yanqing, Wang Xiudong & <u>Fan Jingchao</u>. (2025). Information Extraction from Records of Chinese Wheat Varieties Based on Large Language Models. <i>Frontiers of Data and Computational Development (Chinese and English)</i>, 7(01), 175−185.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+[Objective] In order to promote the transformation of wheat germplasm resources to wheat industry advantages and to improve the richness of wheat genetic background, this paper is based on Large Language Model (LLM) and cue word engineering to conduct information mining for the published three-volume Chinese Wheat Variety Journal. [Methods] Scanning the paper version of the Chinese Wheat Variety Journal and carrying out OCR recognition and other data processing work to obtain wheat variety data, constructing the key extraction indexes of wheat variety data and the corresponding cue words of the large language model for the needs of breeding work, automating the extraction of the key information of the wheat variety data by calling commercial LLM api interfaces, and forming a mature set of work plan for extracting the information of wheat varieties based on the large language model. We have formed a set of mature working program for wheat variety information extraction based on LLM. [Results] The calculation of precision rate, recall rate and F1 value in terms of the number of actually existing relations, the number of recognized relations, and the number of correctly recognized relations in the information extraction task showed that this wheat varietal journal information extraction scheme achieved more than 0.89 precision rate, more than 0.73 recall rate, and more than 0.84 F1 value in the information extraction for the three volumes of Chinese Wheat Varietal Journal that have been published. [Conclusions] The high accuracy of this wheat varietal journal information extraction scheme indicates that it is fully capable of achieving precise information extraction, but the recall rate also indicates that the scheme has the problem that some information cannot be recognized, so although the scheme is overall feasible in terms of the combined F1 score, further manual verification and review of the extraction results is still required.
