@@ -3,7 +3,7 @@ title: "Ploidy Analysis Set of National Indigenous Varieties of Deciduous Fruit 
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+funding: 'National Agricultural Science Data Center (NASDC2022XM00); Framework for Agricultural Science Data Fusion and Automated Mining (2022YFF0711801); Basic Scientific Research Operating Expenses of Chinese Academy of Agricultural Sciences (Y2022LM20)'
 date: 2023-03-15
 venue: 'Journal of Agricultural Big Data'
 paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=gHWJqxSIlt0ZK_u9kl6hRqpInJjvNHLY7brijPAx-z2L6lyXfh1kBadPDTfF4TuM4ln4L_7qHF4724BghZ2DS98dXlw8gN7wKvToofm5SgZ3uVKN7BhbWYlw9Py6Ad7WUOnayFb7igiu5AMuyTqvZ4NQQwKv1CQeWM8a_ZNe2Fz8ep3pdWu5Eg==&uniplatform=NZKPT&language=CHS'
