@@ -3,7 +3,7 @@ title: "Construction of A Knowledge Graph for Selection and Breeding Research of
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'The paper was funded by the following grants: Science and Technology Innovation Engineering Special Project of Chinese Academy of Agricultural Sciences (CAAS - ASTIP - 2024 - AII)'
+excerpt: 'The paper was funded by the following grant: Science and Technology Innovation Engineering Special Project of Chinese Academy of Agricultural Sciences (CAAS - ASTIP - 2024 - AII)'
 date: 2024-11-13
 venue: 'Journal of Plant Genetic Resources'
 paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=gHWJqxSIlt1lUQsCSZX53Pme5bRLWxi-lV5aI0Ukr_oxp5RfgrTJLYs73ptEB3BvWz4AE4_kcrmecuT7_XVRV0onFkJHJyZRqYy_kX6zKvETlceCyC-gI4FKDNWqYfI-cNI18_szM2jRbaRKJlH76OPrK1Y1_eqU_aJmq0jfYqI4g6Qr-xWOtA==&uniplatform=NZKPT&language=CHS'
