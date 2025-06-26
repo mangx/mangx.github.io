@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Ploidy analysis set of national indigenous varieties of deciduous fruit trees resources in 2012—2017"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023-03-15
+venue: 'Journal of Agricultural Big Data'
+paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=gHWJqxSIlt0ZK_u9kl6hRqpInJjvNHLY7brijPAx-z2L6lyXfh1kBadPDTfF4TuM4ln4L_7qHF4724BghZ2DS98dXlw8gN7wKvToofm5SgZ3uVKN7BhbWYlw9Py6Ad7WUOnayFb7igiu5AMuyTqvZ4NQQwKv1CQeWM8a_ZNe2Fz8ep3pdWu5Eg==&uniplatform=NZKPT&language=CHS'
+DOI: '	10.19788/j.issn.2096-6369.230111'
+citation: 'Yijin WEI, X. WANG, H. LI, J. FAN, and S. CAO, “Ploidy analysis set of national indigenous varieties of deciduous fruit trees resources in 2012—2017,” <i>Journal of Agricultural Big Data</i>, 2023.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Domestic varieties of fruit trees, also known as local varieties, are usually well adapted to the climate and production conditions of their local areas, and have rich genotypes and genetic diversity, which provide important gene sources for the improvement of fruit trees. There is a close relationship between ploidy and crossbreeding compatibility of fruit trees. The analysis of ploidy of fruit trees can provide a theoretical basis for the selection of crossbreeding parents and crossbreeding combinations. This dataset covers the population of Henan, Hubei, Hunan, Tibet Autonomous Region, Beijing, Tianjin, Hebei, Inner Mongolia Autonomous Region, Liaoning, Jilin, Heilongjiang, Jiangsu, Guangdong, Guangxi Zhuang Autonomous Region, Chongqing, Guizhou, Yunnan, Sichuan, Shandong, Shanghai, Zhejiang, Anhui, Fujian, Jiangxi, Shanxi, Shaanxi, Gansu, Qinghai, and Ningxia Hui from 2012 to 2017 Agricultural variety resources of deciduous fruit trees collected from key distribution areas and dominant producing areas of deciduous fruit trees in autonomous region, Xinjiang Uygur Autonomous Region and other places, including pomegranate, kiwi, jujube, grape and persimmon tree species, were detected, investigated and ploidy analysis were carried out to form data sets. The data included 232 pomegranates, 110 kiwifruit, 61 jujube, 62 persimmon and 57 grape species. The data included 5 data tables and 522 records. It includes test date, test instrument, test kit, result determination method, serial number, sample name, collection site, graph data, etc. The data set reveals the chromosome ploidy of farm varieties and the genetic rule of intergeneric hybridization, which can provide theoretical basis for further study of cytogenetics of farm varieties. It also laid a solid foundation for the national fruit tree farmer variety identification and evaluation and breeding career development.
