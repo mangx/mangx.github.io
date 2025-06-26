@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Engineering, University of Toyama, 2025-2028 (expected)
+* Ph.D in Engineering, University of Toyama (expected)
 * M.S. in Management, Graduate School of Chinese Academy of Agricultural Sciences, 2022 - 2025
 * B.S. in Management, Harbin University of Science and Technology, 2018 - 2022
 
