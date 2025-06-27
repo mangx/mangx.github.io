@@ -24,4 +24,4 @@ Research interest
 
 News
 ======
-* <b>2025</b> - One paper has been submitted.
+* <b>2025</b> - A paper has been submitted.
