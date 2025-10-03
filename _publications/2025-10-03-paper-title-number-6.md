@@ -1,1 +1,13 @@
-123
+---
+title: "Chat-rgie: precision extraction of rice germplasm data using large language models and prompt engineering"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-10-03-paper-title-number-6
+excerpt: 'The paper was funded by the following grant: Science and Technology Innovation Engineering Special Project of Chinese Academy of Agricultural Sciences (CAAS - ASTIP - 2025 - AII)'
+date: 2025-08-20
+venue: ' Journal of Big Data'
+paperurl: '[https://kns.cnki.net/kcms2/article/abstract?v=gHWJqxSIlt3F4RDcAzroXyNZfA_P2ARUANJiLOhtBKV6GV9kbwmB2h3L3tObNbf1vkbm2mPfznw6n4aEhXzPgAfXd0iNyTssBkYSyFMqNsQmuqgrYgAdCslOPkIMrP02L7rx9uzU43ufiU3szaRekcw5ivU_EeuDFelMFepAQLT6CX0NC66gUA==&uniplatform=NZKPT&language=CHS](https://link.springer.com/article/10.1186/s40537-025-01236-0)'
+citation: '<b>Wei Yijin</b>, <u>Fan Jingchao</u>. (2025). Chat-rgie: precision extraction of rice germplasm data using large language models and prompt engineering. <i>Journal of Big Data</i>, 12(1): 202.'
+---
+
+Varietal improvement is a key aspect of breeding, and as a result of this work, crop varietal data becomes more complicated, requiring more resources to extract. As a result, we developed Chat-RGIE, a rice germplasm data extraction strategy based on conversational large language models (LLM) and cue word engineering, to achieve rice germplasm data extraction in a ZERO-shot manner. The technique employs multi-response voting to limit the chance of phantom appearances, as well as an additional calibration component to choose the best data extraction findings. We performed performance evaluation and real-life data extraction evaluation on Chat-RGIE, and the scheme obtained 0.9102 precision, 0.9941 recall, and 0.9554 accuracy in performance evaluation, and 0.6351 precision, 1.0 recall, and 0.8225 accuracy in real-life data extraction evaluation, which completely proved the effectiveness of the scheme. Furthermore, the well-designed data extraction procedure mitigates the likelihood of potential bias from a single large model leading to hallucinations to some extent, with the incidence of hallucinations in the two evaluations being 0.0015 and 0.005, respectively, with a very minor influence. Furthermore, we employed Restraint Rate, a statistic used to quantify the degree of limits placed by the prompt on LLM replies, with values of 0.9265 and 0.911 in the two evaluations, resulting in normative responses. Furthermore, when we examined the data extraction results, we discovered that when confronted with an unanswerable answer, the LLM is affected by the stress provided by the prompt, and the higher the stress, the more likely it is to engage in constraint-violating behavior, which is similar to what humans do when stressed. We therefore believe that some of the countermeasures in the human behavior in question also have the potential to help improve LLM performance.
