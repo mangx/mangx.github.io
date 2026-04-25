@@ -15,10 +15,10 @@ Prior to my doctoral studies, I spent three years as a Master's student at the *
 
 Research interest
 ======
-* AI-driven Agricultural Informatics
 * Dataset Distillation
 * Emotion Recognition
 * Computer Vision
+* AI-driven Agricultural Informatics
 
 News
 ======
