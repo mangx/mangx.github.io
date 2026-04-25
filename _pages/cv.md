@@ -32,12 +32,6 @@ Work experience
 
 * 2019.01 - 2019.04: Front-end Developer (Internship)
   * Hangzhou Red Dot New Technology Co., Ltd.
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Achievements
 ======
