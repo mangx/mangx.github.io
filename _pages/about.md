@@ -22,4 +22,4 @@ Research interest
 
 News
 ======
-* <b>2026/03/19</b> - 3 papers accepted to NICOGRAPH International 2026.
+* <b>2026/06/20</b> - Our paper received the <a href="https://www.art-science.org/nicograph/nicoint2026/#nicoint2026-awards:~:text=and%20Haoran%20Xie-,Short%20Paper%20Award,-Human%20Action%20Recognition" target="_blank">Short Paper Award</a> at NICOGRAPH International 2026.
