@@ -35,7 +35,8 @@ Work experience
   
 Achievements
 ======
-* Short Paper Award, NICOGRAPH International 2026, June 2026
+* Selected as a Student Award Candidate, IWAIT 2027
+* Short Paper Award, NICOGRAPH International 2026
 * Third Prize of the 11th “Sharing Cup” Science and Technology Resources Sharing Service Innovation Competition (Agricultural Science Specialized Competition), April 2024
 * Winner Award of National Artificial Intelligence Application Scenario Innovation Challenge, December 2023
 * First prize of the 10th “Sharing Cup” Science and Technology Resources Sharing Service Innovation Competition, April 2023
