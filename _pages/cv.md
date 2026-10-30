@@ -57,4 +57,4 @@ Funding
 ======
 * SCAT研究奨励金(2026 - now)
 * JST SPRINGプログラム(Declined)
-* International Conference Participation Grant, University of Toyama (2026)
+* 国際学会参加費助成金 (University of Toyama, 2026)
